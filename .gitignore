@@ -1,0 +1,8 @@
+# Compiler files
+*/cache/
+*/out/
+*/broadcast/
+
+# Dotenv file
+.env
+.DS_Store
